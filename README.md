@@ -1,3 +1,3 @@
-# Custom-Plugins
+# Plugins
 
-Custom Plugins for USERGE-X
+Custom Plugins Alpha Z
